@@ -47,7 +47,7 @@ Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Net
 
 | Project | Area |
 |---|---|
-| [PrepPilot AI](https://github.com/dixant-sharma/PrepPilot-AI) | AI · MERN · Backend |
+| [PrepPilot AI](https://github.com/dixant-sharma/PrepPilot) | AI · MERN · Backend |
 | [Smart Glasses Navigation](#) | Embedded · Sensors · BLE · Android |
 | [Dual 2-to-4 Decoder / FPGA](https://github.com/dixant-sharma/Dual-2-to-4-Decoder-FPGA) | Verilog · FPGA · Digital Logic |
 
